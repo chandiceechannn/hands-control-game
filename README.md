@@ -56,7 +56,7 @@ pip install opencv-python mediapipe pyautogui
 ### 2. Run the Script
 
 ```bash
-python main.py
+python subway.py
 ```
 
 ### 3. Open the Game
